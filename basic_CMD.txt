@@ -1,0 +1,5 @@
+python --version #To check the version
+pip install requests # To install  pip 
+exit() # to close python
+
+
