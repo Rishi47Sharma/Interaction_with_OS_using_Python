@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#python -m pip install module_name to download pip from pypl
 
 
 import shutil
